@@ -1,0 +1,1 @@
+# Modelo-ARIMA-para-an-lise-de-s-ries-temporais
